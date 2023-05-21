@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmudur Rahman</h1>
 <h3 align="center">A passionate Data Science Student from Macquarie University</h3>
-<img align="right" alt="Coding" width="400" src="https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudur7&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudur7" /> </p>
 
